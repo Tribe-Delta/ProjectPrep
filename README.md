@@ -2,10 +2,10 @@
 Our Project Prep for 301 Group Final
 
 ### Final Project for Code Fellows 301
-Brian: WA (PST): bsward@gmail.com - 425 524 7177
-Dan: WA (PST): dawesome@danawesome.com - 253 -924-9110
-Stephen: WA (PST): stephenjclemmer@gmail.com - 425-301-9603
-Timothee: TX (UTC)  plus one hour: hsp20tim@gmail.com 443-929-5738
+Brian: WA (PST): bsward@gmail.com 
+Dan: WA (PST): dawesome@danawesome.com  
+Stephen: WA (PST): stephenjclemmer@gmail.com
+Timothee: TX (UTC)  plus one hour: hsp20tim@gmail.com 
 
 ## Resources
 ### Group Project: Team Agreement
